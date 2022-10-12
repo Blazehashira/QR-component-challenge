@@ -23,7 +23,7 @@ A challenge on remaking a design for a QR component.
 
 
 
-![](./C:\Users\Sani\Desktop\QR Component mine\images\Screenshot 2022-10-12 190649.png)
+![](images/Screenshot 2022-10-12 190649.png)
 
 
 ### Links
