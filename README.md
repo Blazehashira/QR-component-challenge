@@ -29,7 +29,7 @@ A challenge on remaking a design for a QR component.
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://blazehashira.github.io/QR-component-challenge/)
 
 ## My process
 I started out with structuring the html for the page. Created a div to contain the image and text, then started working on the positioning of the div and the content nested within it. 
