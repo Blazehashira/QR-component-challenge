@@ -23,7 +23,7 @@ A challenge on remaking a design for a QR component.
 
 
 
-!(./images/Screenshot 2022-10-12 190649.png)
+![](./images/"Screenshot 2022-10-12 190649.png")
 
 
 ### Links
